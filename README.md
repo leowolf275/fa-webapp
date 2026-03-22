@@ -1,6 +1,6 @@
-# Ryan Sim — Financial Advisor Website
+# Financial Advisor Website
 
-A premium personal brand website for Ryan Sim, a Financial Advisor based in Singapore. Built with Next.js, Tailwind CSS v4, and Framer Motion.
+A premium personal brand website for a Financial Advisor based in Singapore. Built with Next.js, Tailwind CSS v4, and Framer Motion.
 
 ## Getting Started
 

@@ -1,15 +1,15 @@
 // ============================================
-// Ryan Sim — Financial Advisor Website
+// Financial Advisor Website
 // All customizable content lives here.
 // Update text, links, and stats in one place.
 // ============================================
 
 export const SITE = {
-  name: "Ryan Sim",
-  title: "Ryan Sim | Financial Advisor · Singapore",
+  name: "John Doe",
+  title: "John Doe | Financial Advisor · Singapore",
   description:
-    "Helping you build wealth with clarity and confidence. Schedule a conversation with Ryan Sim today.",
-  url: "https://ryansim.com",
+    "Helping you build wealth with clarity and confidence. Schedule a conversation with John Doe today.",
+  url: "https://example.com",
 } as const;
 
 export const NAV_LINKS = [
@@ -25,9 +25,9 @@ export const HERO = {
 } as const;
 
 export const ABOUT = {
-  heading: "About Ryan",
+  heading: "About John",
   paragraphs: [
-    "I'm Ryan — a financial advisor based in Singapore with a genuine passion for helping people gain clarity over their finances. I didn't get into this industry to push products or chase sales targets. I got into it because I believe everyone deserves a clear, honest plan for their financial future.",
+    "I'm John — a financial advisor based in Singapore with a genuine passion for helping people gain clarity over their finances. I didn't get into this industry to push products or chase sales targets. I got into it because I believe everyone deserves a clear, honest plan for their financial future.",
     "My approach is simple: listen first, advise second. Before I recommend anything, I take the time to understand your unique situation — your goals, your concerns, your life stage. Whether you're a young professional just starting out or a family planning for the next generation, I meet you where you are.",
     "I believe the best financial relationships are built on trust, transparency, and a long-term perspective. No jargon, no pressure — just straightforward guidance to help you make confident decisions about your money and your future.",
   ],
@@ -45,13 +45,13 @@ export const CONTACT = {
     {
       platform: "Telegram",
       label: "Message on Telegram",
-      href: "https://t.me/ryansim",
+      href: "https://t.me/johndoe",
       icon: "telegram",
     },
     {
       platform: "WhatsApp",
       label: "WhatsApp Me",
-      href: "https://wa.me/6591234567",
+      href: "https://wa.me/6500000000",
       icon: "whatsapp",
     },
   ],
@@ -59,9 +59,9 @@ export const CONTACT = {
 } as const;
 
 export const FOOTER = {
-  copyright: `© ${new Date().getFullYear()} Ryan Sim. All rights reserved.`,
+  copyright: `© ${new Date().getFullYear()} John Doe. All rights reserved.`,
   disclaimer:
-    "Ryan Sim is an authorised representative of [Company Name]. This website is not an official company website.",
+    "John Doe is an authorised representative of [Company Name]. This website is not an official company website.",
   socials: [
     { label: "LinkedIn", href: "#", icon: "linkedin" },
     { label: "Telegram", href: "#", icon: "telegram" },
