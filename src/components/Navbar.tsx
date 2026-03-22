@@ -45,7 +45,7 @@ export default function Navbar() {
             href="#"
             className="font-heading text-2xl text-cream tracking-tight hover:text-gold transition-colors duration-300"
           >
-            Ryan Sim
+            John Doe
           </a>
 
           {/* Desktop Nav */}
